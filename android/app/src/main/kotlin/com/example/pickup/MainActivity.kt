@@ -1,0 +1,6 @@
+package app.showpickup
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
