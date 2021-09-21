@@ -1,8 +1,10 @@
-# pickup
+# Show Pickup
 
-A flutter app to get the movies and tv show details.
+A flutter app to get the movies.
 
-## pickup
+<img src="https://github.com/VaishnavDatir/Flutter-NewsBucket/blob/master/screenshot/ss.png"> <br>
+
+## Features
     [] Currently app is able to show latest, popular movies along with cast and movie trailer.
     [] Tv show is in development
 
