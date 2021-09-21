@@ -2,7 +2,7 @@
 
 A flutter app to get the movies.
 
-<img src="https://github.com/VaishnavDatir/Flutter-NewsBucket/blob/master/screenshot/ss.png"> <br>
+<img src="https://github.com/VaishnavDatir/ShowPickup/blob/master/screenshot/ss.png"> <br>
 
 ## Features
     [] Currently app is able to show latest, popular movies along with cast and movie trailer.
