@@ -1,6 +1,6 @@
 # Show Pickup
 
-A flutter app to get the movie deatils.
+A flutter app to get the movie details.
 
 <img src="https://github.com/VaishnavDatir/ShowPickup/blob/master/screenshot/ss.png"> <br>
 
